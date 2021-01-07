@@ -1,9 +1,10 @@
+import Navbar from './Navbar/index';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <h1>Olai Mundo!</h1>
+        <Navbar />
     </div>
   );
 }
