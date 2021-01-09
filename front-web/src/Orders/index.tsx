@@ -1,10 +1,11 @@
 import './styles.css';
+import StepsHeader from "./StepsHeader";
 
 function Orders(){
-    
-
     return (
-        <h1>Orders</h1>
+        <div className="orders-container">
+            <StepsHeader />
+        </div>            
     )
 }
 
