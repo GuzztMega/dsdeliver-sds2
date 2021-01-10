@@ -7,8 +7,11 @@ function Footer(){
     
     return (
         <footer className="main-footer">
-          App Desenvolvido pela 2ª Semana DevSuperior - DSDeliver Inc. 
+          App Desenvolvido na 2ª Semana DevSuperior - Augusto Longo 
           <div className="footer-icons">
+            <a href="https://www.linkedin.com/in/augusto-longo-358717100/" target="_new">
+              <LinkedInIcon />
+            </a>
             <a href="https://www.linkedin.com/school/DevSuperior" target="_new">
               <LinkedInIcon />
             </a>
